@@ -1,4 +1,6 @@
-# Getting Started with apollo-client-react-typescript (Create React App)
+# Getting Started with Create React App
+
+Demo project for https://akoskm.com/blog/apollo-client-react-typescript-example/.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
